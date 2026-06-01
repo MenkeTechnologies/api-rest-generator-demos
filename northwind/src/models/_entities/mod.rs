@@ -1,0 +1,15 @@
+pub mod prelude;
+
+pub mod employees;
+pub mod categories;
+pub mod customers;
+pub mod shippers;
+pub mod suppliers;
+pub mod orders;
+pub mod products;
+pub mod order_details;
+pub mod customer_customer_demos;
+pub mod customer_demographics;
+pub mod regions;
+pub mod territories;
+pub mod employee_territories;

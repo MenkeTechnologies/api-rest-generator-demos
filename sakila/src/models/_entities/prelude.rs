@@ -1,0 +1,16 @@
+pub use super::actors::Entity as Actors;
+pub use super::address::Entity as Address;
+pub use super::categorys::Entity as Categorys;
+pub use super::citys::Entity as Citys;
+pub use super::countrys::Entity as Countrys;
+pub use super::customers::Entity as Customers;
+pub use super::films::Entity as Films;
+pub use super::film_actors::Entity as FilmActors;
+pub use super::film_categorys::Entity as FilmCategorys;
+pub use super::film_texts::Entity as FilmTexts;
+pub use super::inventorys::Entity as Inventorys;
+pub use super::languages::Entity as Languages;
+pub use super::payments::Entity as Payments;
+pub use super::rentals::Entity as Rentals;
+pub use super::staffs::Entity as Staffs;
+pub use super::stores::Entity as Stores;

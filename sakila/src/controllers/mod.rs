@@ -1,0 +1,17 @@
+pub mod home;
+pub mod actors;
+pub mod address;
+pub mod categorys;
+pub mod citys;
+pub mod countrys;
+pub mod customers;
+pub mod films;
+pub mod film_actors;
+pub mod film_categorys;
+pub mod film_texts;
+pub mod inventorys;
+pub mod languages;
+pub mod payments;
+pub mod rentals;
+pub mod staffs;
+pub mod stores;

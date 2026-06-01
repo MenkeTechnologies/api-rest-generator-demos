@@ -1,0 +1,11 @@
+pub use super::albums::Entity as Albums;
+pub use super::artists::Entity as Artists;
+pub use super::customers::Entity as Customers;
+pub use super::employees::Entity as Employees;
+pub use super::genres::Entity as Genres;
+pub use super::invoices::Entity as Invoices;
+pub use super::invoice_lines::Entity as InvoiceLines;
+pub use super::media_types::Entity as MediaTypes;
+pub use super::playlists::Entity as Playlists;
+pub use super::playlist_tracks::Entity as PlaylistTracks;
+pub use super::tracks::Entity as Tracks;

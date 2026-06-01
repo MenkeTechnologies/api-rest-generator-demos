@@ -1,0 +1,13 @@
+pub use super::employees::Entity as Employees;
+pub use super::categories::Entity as Categories;
+pub use super::customers::Entity as Customers;
+pub use super::shippers::Entity as Shippers;
+pub use super::suppliers::Entity as Suppliers;
+pub use super::orders::Entity as Orders;
+pub use super::products::Entity as Products;
+pub use super::order_details::Entity as OrderDetails;
+pub use super::customer_customer_demos::Entity as CustomerCustomerDemos;
+pub use super::customer_demographics::Entity as CustomerDemographics;
+pub use super::regions::Entity as Regions;
+pub use super::territories::Entity as Territories;
+pub use super::employee_territories::Entity as EmployeeTerritories;
